@@ -1,4 +1,4 @@
-# Weather-API-Project
+# WeatherSearch
 This project consists of a Graphical User Interface (GUI) derived from a python program I created. This program utilizes a Weather API for users to discover the minimum, maximum, and current daily temperatures of any city in the world.
 
 
